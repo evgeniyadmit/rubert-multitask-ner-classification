@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.parquet
+*.arrow
+data/
+nerel_attention_outputs/
+.cache/
